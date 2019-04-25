@@ -4187,6 +4187,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-brand { background-image: url("./images/4decopa_N-02.png");
+  background-size: cover;
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
