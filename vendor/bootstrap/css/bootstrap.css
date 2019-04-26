@@ -4162,6 +4162,7 @@ input[type="button"].btn-block {
 }
 
 .navbar {
+  background-color: black;
   position: relative;
   display: -ms-flexbox;
   display: flex;
