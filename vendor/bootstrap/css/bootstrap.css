@@ -9884,12 +9884,13 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
   
-  #logo {background-color: white;
+#logo {background-color: white;
 width: 300px;
 height: 130px;
 margin-left: auto;
 margin-right: auto;
 position: relative;
+flost: left;
 top: 3px;
 bottom: 10px;
 border-radius: 1px;
